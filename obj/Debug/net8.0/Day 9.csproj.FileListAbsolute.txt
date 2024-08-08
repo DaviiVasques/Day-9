@@ -1,0 +1,14 @@
+/home/davi/Área de Trabalho/Exercicios/Herança/Day 9/bin/Debug/net8.0/Day 9
+/home/davi/Área de Trabalho/Exercicios/Herança/Day 9/bin/Debug/net8.0/Day 9.deps.json
+/home/davi/Área de Trabalho/Exercicios/Herança/Day 9/bin/Debug/net8.0/Day 9.runtimeconfig.json
+/home/davi/Área de Trabalho/Exercicios/Herança/Day 9/bin/Debug/net8.0/Day 9.dll
+/home/davi/Área de Trabalho/Exercicios/Herança/Day 9/bin/Debug/net8.0/Day 9.pdb
+/home/davi/Área de Trabalho/Exercicios/Herança/Day 9/obj/Debug/net8.0/Day 9.GeneratedMSBuildEditorConfig.editorconfig
+/home/davi/Área de Trabalho/Exercicios/Herança/Day 9/obj/Debug/net8.0/Day 9.AssemblyInfoInputs.cache
+/home/davi/Área de Trabalho/Exercicios/Herança/Day 9/obj/Debug/net8.0/Day 9.AssemblyInfo.cs
+/home/davi/Área de Trabalho/Exercicios/Herança/Day 9/obj/Debug/net8.0/Day 9.csproj.CoreCompileInputs.cache
+/home/davi/Área de Trabalho/Exercicios/Herança/Day 9/obj/Debug/net8.0/Day 9.dll
+/home/davi/Área de Trabalho/Exercicios/Herança/Day 9/obj/Debug/net8.0/refint/Day 9.dll
+/home/davi/Área de Trabalho/Exercicios/Herança/Day 9/obj/Debug/net8.0/Day 9.pdb
+/home/davi/Área de Trabalho/Exercicios/Herança/Day 9/obj/Debug/net8.0/Day 9.genruntimeconfig.cache
+/home/davi/Área de Trabalho/Exercicios/Herança/Day 9/obj/Debug/net8.0/ref/Day 9.dll
